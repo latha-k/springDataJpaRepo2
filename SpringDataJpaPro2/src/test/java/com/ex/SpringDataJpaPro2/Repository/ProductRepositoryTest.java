@@ -18,7 +18,7 @@ class ProductRepositoryTest {
 	ProductRepository pr;
 	@BeforeEach
 	void setUp() throws Exception {
-		System.out.println("befre test");
+		System.out.println("befre test edit1");
 	}
 
 	@AfterEach
